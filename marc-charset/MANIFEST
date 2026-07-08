@@ -41,3 +41,4 @@ t/space.t
 t/table.t
 t/utf8.t
 t/vietnamese.t
+xt/release/codetables-source.t
